@@ -47,5 +47,5 @@ _________
 ________
 
 > Gym enthusiast
-> Basketball player
-> Cooking enthusiast
+ Basketball player
+ Cooking enthusiast
