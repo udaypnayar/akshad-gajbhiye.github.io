@@ -40,9 +40,9 @@ ________
 ## PROJECTS
 _________
 
-> Developed a bank management system using SQL and Python.
-> Contributed to the website of Cultrang, the most prestigious fest of IIT Goa. 
-> Created a weather detecting sensor using Arduino.
+> * Developed a bank management system using SQL and Python.
+> * Contributed to the website of Cultrang, the most prestigious fest of IIT Goa. 
+> * Created a weather detecting sensor using Arduino.
 
 ## EXTRA CURRICULAR ACTIVITES
 ________
