@@ -21,7 +21,7 @@ _________
 _________
 
 > 1. [Indian Institute of Technology Goa](https://iitgoa.ac.in/) — Bachelor of Technology in Computer Science and Engineering — Expected Graduation: 2026 — Current CGPA: 8.42
-> 2. [Cambridge School Greater Noida](https://gn.cambridgeschool.edu.in/) — 12th Grade — Passed out — Average Percentage:93.6
+> 2. [Cambridge School Greater Noida](https://gn.cambridgeschool.edu.in/) — 12th Grade — Passed out — Average Percentage: 93.6
 
 ## SKILLS
 ________
